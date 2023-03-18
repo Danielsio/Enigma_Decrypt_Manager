@@ -8,7 +8,7 @@
 4. Saving history of ciphered text. 
 5. Automatic brute-force decoding mode.
 
-This project is a direct continuation of the project [Virtual Enigma Machine](https://github.com/Danielsio/VirtualEnigma_Machine)
+This project is a direct continuation of the project [Virtual Enigma Machine](https://github.com/Danielsio/Virtual_Enigma_Machine)
 
 
 ## UI Images
